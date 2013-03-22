@@ -1,4 +1,4 @@
-p-Demo-Balls
+leap-Demo-Balls
 ===============
 
 Leap Motion Demo using Processing
